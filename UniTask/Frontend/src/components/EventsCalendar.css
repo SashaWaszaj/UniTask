@@ -1,0 +1,26 @@
+.bigCalendar-container {
+    margin: 0 auto;
+    background-color: white;
+    color:  black;
+}
+.calendar-title {
+        padding-top: 20px;
+        background-color: #20A4F3;
+        color: #F6F7F8;
+        height: 60px;
+  width: 1520px;
+  justify-content: center;
+  margin: 0;
+}
+
+.principal-titulo{
+    margin-left: 40px;
+}
+.navegacion {
+    margin-bottom: 20px;
+}
+.contenido {
+    display: flex;
+    align-items: center;  
+    justify-content: center;
+}
